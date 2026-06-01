@@ -188,3 +188,32 @@ Approved candidates may receive:
 
 ```text
 STM-LM-2026-0001
+
+Advancement Path
+
+Licensed Ministers may continue toward:
+
+* Ordained Minister Track
+* Advanced Ministry Formation
+* Senior Minister Recognition
+* Seminary Leadership Development
+
+⸻
+
+Related Documents
+
+* STATEMENT_OF_FAITH.md
+* ORDINATION_FRAMEWORK.md
+* MINISTER_REGISTRY_STANDARD.md
+* DIGITAL_CREDENTIAL_STANDARD.md
+* CERTIFICATE_IN_BIBLICAL_STUDIES.md
+* CERTIFICATE_IN_MINISTRY_FORMATION.md
+
+⸻
+
+SydTek Seminary
+SydTek University
+SydTek Scholars
+Goldstonian Concordance Bible (GCB)
+Mirror → Water → Fire Doctrine
+Fluency Not Exposure
